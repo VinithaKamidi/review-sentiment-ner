@@ -1,0 +1,7 @@
+transformers
+datasets
+torch
+accelerate
+scikit-learn
+spacy
+numpy
